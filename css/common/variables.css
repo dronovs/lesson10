@@ -1,0 +1,17 @@
+:root {
+    --container-width: 1100px;
+
+    --h1-color: white;
+    --h1-font-size: 55px;
+
+    --h2-font-size: 30px;
+
+    --privacy-p-size: 18px;
+
+    --privacy-margin-bottom-h2-p: 40px;
+
+    --short-h3-color: #325d72;
+    --short-h3-size: 25px;
+
+    --links-color: #4183c4;
+}
