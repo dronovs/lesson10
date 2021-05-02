@@ -3,12 +3,14 @@
 }
 .privacy-wrapper h2{
     font-size: var(--h2-font-size);
+    font-weight: 600;
     margin-bottom: var(--privacy-margin-bottom-h2-p);
 }
 .p-wrapper {
     display: flex;
 }
 .bold {
+    margin-left: 5px;
     font-weight: 600;
 }
 .privacy-wrapper p {
@@ -17,11 +19,15 @@
     border-bottom: 70px;
 }
 
+.short-version-wrapper {
+    margin-bottom: 50px;
+}
 .short-version-wrapper h3 {
     color: var(--short-h3-color);
     font-size: var(--short-h3-size);
     border-bottom: 1px #dddddd solid;
     margin-bottom: 30px;
+    font-weight: 500;
 }
 .short-version-wrapper p {
     font-size: var(--privacy-p-size);
